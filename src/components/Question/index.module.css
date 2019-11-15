@@ -1,0 +1,25 @@
+.container {
+  display: block;
+  flex-basis: 200px;
+  flex-grow: 1;
+  padding: 10px 0;
+}
+
+.content,
+.answers {
+  padding: 20px 0;
+}
+
+.result-container {
+  text-align: center;
+}
+
+.message {
+  color: #000000;
+  font-size: 30px;
+  margin: 16px;
+}
+
+.correct-answer {
+  color: #000;
+}
