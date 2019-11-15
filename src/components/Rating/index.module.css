@@ -1,0 +1,9 @@
+.rating {
+  font-size: 12px;
+  margin: 2px 2px;
+  color: #eeeeee;
+}
+
+.is-valid {
+  color: black;
+}

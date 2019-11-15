@@ -1,0 +1,8 @@
+.progress-container {
+  height: 10px;
+}
+
+.progress {
+  background-color: #A9AAA9;
+  height: inherit;
+}
